@@ -1,0 +1,21 @@
+<svg id="Group_405" data-name="Group 405" xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <circle id="Ellipse_4" data-name="Ellipse 4" cx="40" cy="40" r="40" fill="#cbd4c2"/>
+  <g id="Group_441" data-name="Group 441">
+    <g id="Rectangle_86" data-name="Rectangle 86" transform="translate(32 37)" fill="none" stroke="#505050" stroke-width="1.5">
+      <path d="M6,0h5a6,6,0,0,1,6,6V23a3,3,0,0,1-3,3H3a3,3,0,0,1-3-3V6A6,6,0,0,1,6,0Z" stroke="none"/>
+      <path d="M6,.75h5A5.25,5.25,0,0,1,16.25,6V23A2.25,2.25,0,0,1,14,25.25H3A2.25,2.25,0,0,1,.75,23V6A5.25,5.25,0,0,1,6,.75Z" fill="none"/>
+    </g>
+    <g id="Rectangle_87" data-name="Rectangle 87" transform="translate(36 31)" fill="none" stroke="#505050" stroke-width="1.5">
+      <path d="M0,0H9A0,0,0,0,1,9,0V5A1,1,0,0,1,8,6H1A1,1,0,0,1,0,5V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M1.5.75h6a.75.75,0,0,1,.75.75V5A.25.25,0,0,1,8,5.25H1A.25.25,0,0,1,.75,5V1.5A.75.75,0,0,1,1.5.75Z" fill="none"/>
+    </g>
+    <g id="Rectangle_88" data-name="Rectangle 88" transform="translate(37 25)" fill="none" stroke="#505050" stroke-width="1.5">
+      <path d="M1,0H6A1,1,0,0,1,7,1V6A0,0,0,0,1,7,6H0A0,0,0,0,1,0,6V1A1,1,0,0,1,1,0Z" stroke="none"/>
+      <path d="M1,.75H6A.25.25,0,0,1,6.25,1V4.5a.75.75,0,0,1-.75.75h-4A.75.75,0,0,1,.75,4.5V1A.25.25,0,0,1,1,.75Z" fill="none"/>
+    </g>
+    <g id="Path_82" data-name="Path 82" transform="translate(37 15)" fill="none">
+      <path d="M2,0H5A1,1,0,0,1,6,1L7,11H0L1,1A1,1,0,0,1,2,0Z" stroke="none"/>
+      <path d="M 2.457486152648926 1.5 L 1.657485961914063 9.5 L 5.342514038085938 9.5 L 4.542513847351074 1.5 L 2.457486152648926 1.5 M 2 0 L 5 0 C 5.552279949188232 0 6 0.4477100372314453 6 1 L 7 11 L 0 11 L 1 1 C 1 0.4477100372314453 1.447720050811768 0 2 0 Z" stroke="none" fill="#505050"/>
+    </g>
+  </g>
+</svg>
